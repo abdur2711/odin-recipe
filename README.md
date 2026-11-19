@@ -1,1 +1,1 @@
-This a simple recipe website that displays some recipes
+This is a simple recipe website that displays some recipes
